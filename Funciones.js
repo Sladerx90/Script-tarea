@@ -17,4 +17,4 @@ function saludo(nombre){
     alert("Bienvenido/a "+ nombre);
 }
 
-saludo(felipe);
+saludo("felipe");
