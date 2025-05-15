@@ -1,8 +1,8 @@
-const contrasena = "admin123"
+const contrasena = "pepito123"
 let contrasenaUsuario;
 
 do{
-    contrasena = prompt("Ingrese contraseña");
+    contrasenaUsuario = prompt("Ingrese contraseña");
 }while(contrasenaUsuario != contrasena);
 
-alert("Bienvenudo/a");
+console.log("Bienvenudo/a");
